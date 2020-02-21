@@ -1,0 +1,1 @@
+/Users/williamquarles/Projects/projeuler-solutions-rust/target/debug/current: /Users/williamquarles/Projects/projeuler-solutions-rust/src/main.rs /Users/williamquarles/Projects/projeuler-solutions-rust/src/problems/problem008.rs /Users/williamquarles/Projects/projeuler-solutions-rust/src/problems.rs
